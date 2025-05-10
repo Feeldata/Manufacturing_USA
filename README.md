@@ -13,4 +13,5 @@ The final result is this
 ![MANUFACTURING INFOGRAPHIC](https://github.com/user-attachments/assets/997f9f49-24e1-47e2-8e3b-1630c3c6b9b1)
 
 Raw files are available in this repo.
-Here is an insight into my logc for the project as well as the work log.
+--
+And here is an insight into my logc for the project as well as the work log.
