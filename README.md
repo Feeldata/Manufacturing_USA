@@ -1,5 +1,5 @@
 # Manufacturing_USA
-How exposed the biggest Manufacturing Sectors are to Risks.
+How vulnerable the biggest Manufacturing Sectors are, and what are their biggest risks.
 
 -- 
 
