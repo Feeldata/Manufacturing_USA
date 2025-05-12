@@ -11,6 +11,8 @@ First Let's illustrate the KPI's and where do i get the Data from
 The final result is this
 
 ![MANUFACTURING INFOGRAPHIC](https://github.com/user-attachments/assets/997f9f49-24e1-47e2-8e3b-1630c3c6b9b1)
+--
+![336](https://github.com/user-attachments/assets/0fceb21f-4522-4761-acda-80dc50521530)
 
 Raw files are available in this repo.
 --
