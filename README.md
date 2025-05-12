@@ -104,7 +104,7 @@ ORDER BY
 
 ![DATA FLOW](https://github.com/user-attachments/assets/4f83d47c-1b98-4d02-ad21-545be6197c6b)
 
-The final result is this
+The Visualisation for part of the data is this
 
 ![MANUFACTURING INFOGRAPHIC](https://github.com/user-attachments/assets/997f9f49-24e1-47e2-8e3b-1630c3c6b9b1)
 --
