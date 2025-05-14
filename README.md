@@ -110,6 +110,8 @@ The Visualisation for part of the data is this
 --
 ![336](https://github.com/user-attachments/assets/0fceb21f-4522-4761-acda-80dc50521530)
 
+![MANUFACTURING INFOGRAPHIC](https://github.com/user-attachments/assets/84cda2e7-1dd6-4c61-a497-6651ec137a31)
+
 --
 And here is an insight into my logic for the project as well as the work log.
 
